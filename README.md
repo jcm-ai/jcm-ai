@@ -1,9 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadishmali567&label=Profile%20views&color=0e75b6&style=flat" alt="jagadishmali567" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcm-ai&label=Profile%20views&color=0e75b6&style=flat" alt="jcm-ai" /> </p>
 
 ![1](https://user-images.githubusercontent.com/27211670/209643643-942c9f00-bca4-4b3d-90f3-7c062954ccbe.gif)
 
 
-<h1 align="center">Namaste 🙏🏻 I'm Jagadish Mali !  🎍💻🌼</h1>
+<h1 align="center">Namaste 🙏🏻 I'm Jagadish !  🎍💻🌼</h1>
   
 
 <h3 align="left">Connect with me:</h3>
@@ -98,13 +98,13 @@ I am a fast learner, and I really love to learn new skills. I will always prefer
 ## Github Stats  
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadishmali567" alt="jagadishmali567" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcm-ai" alt="jcm-ai" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishmali567&show_icons=true&locale=en&layout=compact" alt="jagadishmali567" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcm-ai&show_icons=true&locale=en&layout=compact" alt="jcm-ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadishmali567&show_icons=true&locale=en" alt="jagadishmali567" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcm-ai&show_icons=true&locale=en" alt="jcm-ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishmali567&" alt="jagadishmali567" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcm-ai&" alt="jcm-ai" /></p>
 
 ----
 
