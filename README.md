@@ -106,6 +106,12 @@ I am a fast learner, and I really love to learn new skills. I will always prefer
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcm-ai&" alt="jcm-ai" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcm-ai/jcm-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcm-ai/jcm-ai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jcm-ai/jcm-ai/output/github-snake.svg" />
+</picture>
+
 ----
 
 ### Above all else I keep Science and Technology in my Mind and God in my Heart.❤
